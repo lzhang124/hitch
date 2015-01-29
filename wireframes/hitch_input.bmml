@@ -4,17 +4,17 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>3355443</color>
-        <text>ridesplitr%0Ahttp%3A//ridesplitr.com</text>
+        <text>hitch%0Ahttp%3A//hitch.com</text>
         <value>80</value>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="370" y="113" w="-1" h="-1" measuredW="161" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="408" y="113" w="-1" h="-1" measuredW="84" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>2848996</color>
         <size>40</size>
-        <text>ridesplitr</text>
+        <text>hitch</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="266" w="134" h="-1" measuredW="53" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
