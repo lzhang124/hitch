@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="884" measuredH="624" mockupW="868" mockupH="608">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="16" y="16" w="868" h="608" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>3355443</color>
+        <text>ridesplitr%0Ahttp%3A//ridesplitr.com</text>
+        <value>80</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="370" y="113" w="-1" h="-1" measuredW="161" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>2848996</color>
+        <size>40</size>
+        <text>ridesplitr</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="266" w="134" h="-1" measuredW="53" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+        <size>16</size>
+        <state>disabled</state>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="308" w="134" h="-1" measuredW="28" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+        <size>16</size>
+        <state>disabled</state>
+        <text>To</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="350" w="134" h="-1" measuredW="46" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+        <size>16</size>
+        <state>disabled</state>
+        <text>From</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="384" y="392" w="134" h="-1" measuredW="45" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+        <size>16</size>
+        <state>disabled</state>
+        <text>Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="319" y="162" w="-1" h="-1" measuredW="280" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>16</size>
+        <text>Please%20fill%20out%20the%20following%20information%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="434" w="134" h="-1" measuredW="46" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>10066329</borderColor>
+        <color>16777215</color>
+        <size>16</size>
+        <state>disabled</state>
+        <text>Time</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
