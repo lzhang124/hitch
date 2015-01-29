@@ -1,7 +1,7 @@
 hitch
 ==========
 
-Wistful Worldly Wonderers
+Wistful Worldly Wanderers
 
 http://hitcharide.herokuapp.com
 
